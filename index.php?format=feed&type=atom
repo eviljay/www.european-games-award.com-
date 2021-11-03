@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/components/com_jcomments/tpl/default/style.css?v=10" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">European Games Award</title>
+	<subtitle type="text">European Games Award</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.european-games-award.com"/>
+	<id>http://www.european-games-award.com/index.php</id>
+	<updated>2013-12-15T23:46:41Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.european-games-award.com/index.php?format=feed&amp;type=atom" />
+	<entry>
+		<title>Winners 2012</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=205:winners-2012"/>
+		<published>2012-08-08T08:02:16Z</published>
+		<updated>2012-08-08T08:02:16Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=205:winners-2012</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--
+	&amp;lt;! 
+		@page { margin: 2cm }
+		P { margin-bottom: 0.21cm; direction: ltr; color: #000000; widows: 2; orphans: 2 }
+		P.western { font-family: &quot;Liberation Serif&quot;, &quot;MS PMincho&quot;, serif; font-size: 12pt; so-language: en-US }
+		P.cjk { font-family: &quot;Droid Sans Fallback&quot;, &quot;MS Mincho&quot;; font-size: 12pt }
+		P.ctl { font-family: &quot;FreeSans&quot;, &quot;MS Mincho&quot;; font-size: 12pt; so-language: hi-IN }
+		A:visited { color: #800080 }
+		A.western:visited { so-language: de-DE }
+		A.cjk:visited { so-language: zh-CN }
+		A.ctl:visited { so-language: hi-IN }
+		A:link { color: #0000ff }
+		A.western:link { so-language: zxx }
+		A.ctl:link { so-language: zxx }
+	 &amp;gt;
+--&gt;&lt;/style&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The winners of the European Games Award 2012!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.35cm; line-height: 115%;&quot; class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Congratulations to the best European Games, Studios, Publishers and Artists! And thanks a lot to all of our 230.000 voters from all over the world!! :-)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.35cm; line-height: 115%;&quot; class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;&lt;img alt=&quot;1_ca03662&quot; src=&quot;http://www.european-games-award.com/images/stories/1_ca03662.jpg&quot; height=&quot;412&quot; width=&quot;620&quot; /&gt;&lt;/p&gt;
+&lt;table style=&quot;height: 194px;&quot; border=&quot;0&quot; width=&quot;623&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Action Game&lt;/td&gt;
+&lt;td&gt;Battlefield 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Adventure Game&lt;/td&gt;
+&lt;td&gt;Botanicula&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Art Direction&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Browser Game&lt;/td&gt;
+&lt;td&gt;GoodGame Empire&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Character Design&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Community&lt;/td&gt;
+&lt;td&gt;Minecraft&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Console Game&lt;/td&gt;
+&lt;td&gt;Battlefield 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Best European Game&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;The Witcher 2: Assassins of Kings&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Game Design&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Gameworld&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Indie Game&lt;/td&gt;
+&lt;td&gt;Minecraft&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Mobile Game&lt;/td&gt;
+&lt;td&gt;Burnout Crash!&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Multiplayer Game&lt;/td&gt;
+&lt;td&gt;Battlefield 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Publisher&lt;/td&gt;
+&lt;td&gt;Wargaming.net&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Racing Game&lt;/td&gt;
+&lt;td&gt;Driver: San Francisco&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Sound&lt;/td&gt;
+&lt;td&gt;Battlefield 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Special Edition&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Strategy Game&lt;/td&gt;
+&lt;td&gt;Anno 2070&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Studio&lt;/td&gt;
+&lt;td&gt;Blue Byte&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Europe's Most Wanted Game&lt;/td&gt;
+&lt;td&gt;Assassin's Creed 3&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Europe's Most Wanted Online Game&lt;/td&gt;
+&lt;td&gt;World of Warplanes&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Personality Award&lt;/td&gt;
+&lt;td&gt;Markus Persson&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;p&gt;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--
+	&amp;lt;! 
+		@page { margin: 2cm }
+		P { margin-bottom: 0.21cm; direction: ltr; color: #000000; widows: 2; orphans: 2 }
+		P.western { font-family: &quot;Liberation Serif&quot;, &quot;MS PMincho&quot;, serif; font-size: 12pt; so-language: en-US }
+		P.cjk { font-family: &quot;Droid Sans Fallback&quot;, &quot;MS Mincho&quot;; font-size: 12pt }
+		P.ctl { font-family: &quot;FreeSans&quot;, &quot;MS Mincho&quot;; font-size: 12pt; so-language: hi-IN }
+		A:visited { color: #800080 }
+		A.western:visited { so-language: de-DE }
+		A.cjk:visited { so-language: zh-CN }
+		A.ctl:visited { so-language: hi-IN }
+		A:link { color: #0000ff }
+		A.western:link { so-language: zxx }
+		A.ctl:link { so-language: zxx }
+	 &amp;gt;
+--&gt;&lt;/style&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The winners of the European Games Award 2012!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.35cm; line-height: 115%;&quot; class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;Congratulations to the best European Games, Studios, Publishers and Artists! And thanks a lot to all of our 230.000 voters from all over the world!! :-)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.35cm; line-height: 115%;&quot; class=&quot;western&quot; lang=&quot;en-GB&quot;&gt;&lt;img alt=&quot;1_ca03662&quot; src=&quot;http://www.european-games-award.com/images/stories/1_ca03662.jpg&quot; height=&quot;412&quot; width=&quot;620&quot; /&gt;&lt;/p&gt;
+&lt;table style=&quot;height: 194px;&quot; border=&quot;0&quot; width=&quot;623&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Action Game&lt;/td&gt;
+&lt;td&gt;Battlefield 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Adventure Game&lt;/td&gt;
+&lt;td&gt;Botanicula&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Art Direction&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Browser Game&lt;/td&gt;
+&lt;td&gt;GoodGame Empire&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Character Design&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Community&lt;/td&gt;
+&lt;td&gt;Minecraft&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Console Game&lt;/td&gt;
+&lt;td&gt;Battlefield 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Best European Game&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;The Witcher 2: Assassins of Kings&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Game Design&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Gameworld&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Indie Game&lt;/td&gt;
+&lt;td&gt;Minecraft&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Mobile Game&lt;/td&gt;
+&lt;td&gt;Burnout Crash!&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Multiplayer Game&lt;/td&gt;
+&lt;td&gt;Battlefield 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Publisher&lt;/td&gt;
+&lt;td&gt;Wargaming.net&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Racing Game&lt;/td&gt;
+&lt;td&gt;Driver: San Francisco&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Sound&lt;/td&gt;
+&lt;td&gt;Battlefield 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Special Edition&lt;/td&gt;
+&lt;td&gt;The Witcher 2: Assassins of Kings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Strategy Game&lt;/td&gt;
+&lt;td&gt;Anno 2070&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Best European Studio&lt;/td&gt;
+&lt;td&gt;Blue Byte&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Europe's Most Wanted Game&lt;/td&gt;
+&lt;td&gt;Assassin's Creed 3&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Europe's Most Wanted Online Game&lt;/td&gt;
+&lt;td&gt;World of Warplanes&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Personality Award&lt;/td&gt;
+&lt;td&gt;Markus Persson&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>10 Tickets left!</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=204:10-tickets-left"/>
+		<published>2012-08-08T08:02:16Z</published>
+		<updated>2012-08-08T08:02:16Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=204:10-tickets-left</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img alt=&quot;logo_mail&quot; src=&quot;http://www.european-games-award.com/images/stories/logo_mail.jpg&quot; height=&quot;277&quot; width=&quot;554&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Hurry up!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;European Games Award 2012&lt;/strong&gt; is in less then a week and here is your chance to grab one of the last &lt;strong&gt;10 tickets&lt;/strong&gt; for the show!&lt;/p&gt;
+&lt;p&gt;be part of &lt;strong&gt;Europe's biggest people's choice award&lt;/strong&gt; show in games and meet international game developers in person.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;People like &lt;strong&gt;Charles Cecil&lt;/strong&gt; from Revolution Software, &lt;strong&gt;Karl Magnus&lt;/strong&gt; from DICE, &lt;strong&gt;Victor Kislyi&lt;/strong&gt; from Wargaming.net and many more will present more then 10 on-stage categories.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=30&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=30&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Okay, I want my ticket now!&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img alt=&quot;logo_mail&quot; src=&quot;http://www.european-games-award.com/images/stories/logo_mail.jpg&quot; height=&quot;277&quot; width=&quot;554&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Hurry up!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;European Games Award 2012&lt;/strong&gt; is in less then a week and here is your chance to grab one of the last &lt;strong&gt;10 tickets&lt;/strong&gt; for the show!&lt;/p&gt;
+&lt;p&gt;be part of &lt;strong&gt;Europe's biggest people's choice award&lt;/strong&gt; show in games and meet international game developers in person.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;People like &lt;strong&gt;Charles Cecil&lt;/strong&gt; from Revolution Software, &lt;strong&gt;Karl Magnus&lt;/strong&gt; from DICE, &lt;strong&gt;Victor Kislyi&lt;/strong&gt; from Wargaming.net and many more will present more then 10 on-stage categories.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=30&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=30&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Okay, I want my ticket now!&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Intermediate Results Disabled</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=203:intermediate-results-disabled"/>
+		<published>2012-08-06T08:27:21Z</published>
+		<updated>2012-08-06T08:27:21Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=203:intermediate-results-disabled</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/header_small_update.jpg&quot; alt=&quot;header_small_update&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Seven days to go on the European Games Award 2012!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;As planned we disabled the intermediate results to keep the tension high for this year's &lt;strong&gt;European Games Award&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We will have ten on-stage categories with various laudators like &lt;strong&gt;Charles Cecil&lt;/strong&gt; from Revolution Software, &lt;strong&gt;Karl Magnus&lt;/strong&gt; from DICE, &lt;strong&gt;Victor Kislyi&lt;/strong&gt; from Wargaming.net and many many more!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Stay tuned for &lt;strong&gt;Europe's biggest people's choice award&lt;/strong&gt; show in games!&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/header_small_update.jpg&quot; alt=&quot;header_small_update&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Seven days to go on the European Games Award 2012!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;As planned we disabled the intermediate results to keep the tension high for this year's &lt;strong&gt;European Games Award&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We will have ten on-stage categories with various laudators like &lt;strong&gt;Charles Cecil&lt;/strong&gt; from Revolution Software, &lt;strong&gt;Karl Magnus&lt;/strong&gt; from DICE, &lt;strong&gt;Victor Kislyi&lt;/strong&gt; from Wargaming.net and many many more!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Stay tuned for &lt;strong&gt;Europe's biggest people's choice award&lt;/strong&gt; show in games!&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Updates</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=202:updates"/>
+		<published>2012-06-28T10:27:24Z</published>
+		<updated>2012-06-28T10:27:24Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=202:updates</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/header_small_update.jpg&quot; alt=&quot;header_small_update&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spec Ops: The Line &lt;/strong&gt;from &lt;strong&gt;YAGER &lt;/strong&gt;changes category. Since there were open places in &lt;strong&gt;Best European Action Game &lt;/strong&gt;and &lt;strong&gt;Best European Console Game&lt;/strong&gt;, Spec Ops enters the competition in these categories.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Still 39 days remaining. Vote now for our late replacements and help them to catch up!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;spec_ops_the_line&quot; src=&quot;http://www.european-games-award.com/images/stories/gamecovers/2012/spec_ops_the_line.jpg&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/header_small_update.jpg&quot; alt=&quot;header_small_update&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spec Ops: The Line &lt;/strong&gt;from &lt;strong&gt;YAGER &lt;/strong&gt;changes category. Since there were open places in &lt;strong&gt;Best European Action Game &lt;/strong&gt;and &lt;strong&gt;Best European Console Game&lt;/strong&gt;, Spec Ops enters the competition in these categories.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Still 39 days remaining. Vote now for our late replacements and help them to catch up!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;spec_ops_the_line&quot; src=&quot;http://www.european-games-award.com/images/stories/gamecovers/2012/spec_ops_the_line.jpg&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Updates</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=201:updates"/>
+		<published>2012-06-28T10:27:24Z</published>
+		<updated>2012-06-28T10:27:24Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=201:updates</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/header_small_update.jpg&quot; alt=&quot;header_small_update&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;We surpased right now the &lt;strong&gt;70,000 votes&lt;/strong&gt; mark and set a new record for the European Games Award!&lt;/p&gt;
+&lt;p&gt;We hope you enjoy beeing part of the biggest people's choice award for video games.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=29&quot;&gt;&lt;strong&gt;Intermediate Results&lt;/strong&gt;&lt;/a&gt; you can see live how the different games compete. We will disable the live view a week before the show to not spoil the final results and keep the tension high during the show!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The following changes was made since the voting started.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;A new candidate enters the competition in Best European Racing Game. &lt;a target=&quot;_blank&quot; href=&quot;http://www.gamepires.com/GasGuzzlers/news.aspx&quot;&gt;&lt;strong&gt;Gas Guzzlers: Combat Carnage&lt;/strong&gt; &lt;/a&gt;from Croatian developer &lt;strong&gt;Gamepires &lt;/strong&gt;is a darn good looking successor of Death Rally.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;gas_guzzlers_combat_carnage&quot; src=&quot;http://www.european-games-award.com/images/stories/gamecovers/2012/gas_guzzlers_combat_carnage.jpg&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Need for Speed: The Run &lt;/strong&gt;was developed by&lt;strong&gt; EA Black Box &lt;/strong&gt;in &lt;strong&gt;Canada&lt;/strong&gt; and therefore does not qualify for the&lt;strong&gt; &lt;/strong&gt;European Games Award&lt;strong&gt;,&lt;/strong&gt; albeit it is a very good racing game!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/need_for_speed_the_run_disqualified.jpg&quot; alt=&quot;need_for_speed_the_run_disqualified&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Another news from the categories, we got a hint from EA that &lt;strong&gt;Syndicate&lt;/strong&gt; is going to be &lt;strong&gt;indexed in Germany &lt;/strong&gt;and therefore we have to disqualify the game.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/syndicate_disqualified.jpg&quot; alt=&quot;syndicate_disqualified&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Unfortunately we had to disqualify &lt;strong&gt;Dead Island &lt;/strong&gt;because it's indexed.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;dead_island_disqualified&quot; src=&quot;http://www.european-games-award.com/images/stories/dead_island_disqualified.jpg&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Sorry guys, but because of the German youth protection law we are not allowed to make any kind of advertising for indexed games.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/header_small_update.jpg&quot; alt=&quot;header_small_update&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;We surpased right now the &lt;strong&gt;70,000 votes&lt;/strong&gt; mark and set a new record for the European Games Award!&lt;/p&gt;
+&lt;p&gt;We hope you enjoy beeing part of the biggest people's choice award for video games.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=29&quot;&gt;&lt;strong&gt;Intermediate Results&lt;/strong&gt;&lt;/a&gt; you can see live how the different games compete. We will disable the live view a week before the show to not spoil the final results and keep the tension high during the show!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The following changes was made since the voting started.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;A new candidate enters the competition in Best European Racing Game. &lt;a target=&quot;_blank&quot; href=&quot;http://www.gamepires.com/GasGuzzlers/news.aspx&quot;&gt;&lt;strong&gt;Gas Guzzlers: Combat Carnage&lt;/strong&gt; &lt;/a&gt;from Croatian developer &lt;strong&gt;Gamepires &lt;/strong&gt;is a darn good looking successor of Death Rally.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;gas_guzzlers_combat_carnage&quot; src=&quot;http://www.european-games-award.com/images/stories/gamecovers/2012/gas_guzzlers_combat_carnage.jpg&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Need for Speed: The Run &lt;/strong&gt;was developed by&lt;strong&gt; EA Black Box &lt;/strong&gt;in &lt;strong&gt;Canada&lt;/strong&gt; and therefore does not qualify for the&lt;strong&gt; &lt;/strong&gt;European Games Award&lt;strong&gt;,&lt;/strong&gt; albeit it is a very good racing game!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/need_for_speed_the_run_disqualified.jpg&quot; alt=&quot;need_for_speed_the_run_disqualified&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Another news from the categories, we got a hint from EA that &lt;strong&gt;Syndicate&lt;/strong&gt; is going to be &lt;strong&gt;indexed in Germany &lt;/strong&gt;and therefore we have to disqualify the game.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/syndicate_disqualified.jpg&quot; alt=&quot;syndicate_disqualified&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Unfortunately we had to disqualify &lt;strong&gt;Dead Island &lt;/strong&gt;because it's indexed.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;dead_island_disqualified&quot; src=&quot;http://www.european-games-award.com/images/stories/dead_island_disqualified.jpg&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Sorry guys, but because of the German youth protection law we are not allowed to make any kind of advertising for indexed games.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Category Updates</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=198:category-updates"/>
+		<published>2012-06-22T07:57:05Z</published>
+		<updated>2012-06-22T07:57:05Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=198:category-updates</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;header_small_update&quot; src=&quot;http://www.european-games-award.com/images/stories/header_small_update.jpg&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Great news!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;We have sent everyone who voted in the last two years an invitation for this years voting and we already collected in less than &lt;strong&gt;24 hours more than 30,000 votes&lt;/strong&gt;. We also contacted all the companies involved in the voting and got great feedback.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;They also pointed out some minor mistakes we corrected, mostly grammar or graphical but we also had to change one game that did not met all regulations. We changed the game &lt;strong&gt;The Mummy Online&lt;/strong&gt; from Bigpoint to &lt;strong&gt;Pirate Storm&lt;/strong&gt; also from Bigpoint. The change was made because &lt;strong&gt;The Mummy Online&lt;/strong&gt; was not developed in Europe.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=8&quot;&gt;&lt;img alt=&quot;the_mummy_online&quot; src=&quot;http://www.european-games-award.com/images/stories/gamecovers/2012/the_mummy_online.jpg&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;header_small_update&quot; src=&quot;http://www.european-games-award.com/images/stories/header_small_update.jpg&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Great news!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;We have sent everyone who voted in the last two years an invitation for this years voting and we already collected in less than &lt;strong&gt;24 hours more than 30,000 votes&lt;/strong&gt;. We also contacted all the companies involved in the voting and got great feedback.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;They also pointed out some minor mistakes we corrected, mostly grammar or graphical but we also had to change one game that did not met all regulations. We changed the game &lt;strong&gt;The Mummy Online&lt;/strong&gt; from Bigpoint to &lt;strong&gt;Pirate Storm&lt;/strong&gt; also from Bigpoint. The change was made because &lt;strong&gt;The Mummy Online&lt;/strong&gt; was not developed in Europe.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=8&quot;&gt;&lt;img alt=&quot;the_mummy_online&quot; src=&quot;http://www.european-games-award.com/images/stories/gamecovers/2012/the_mummy_online.jpg&quot; height=&quot;250&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>European Games Award voting 2012 online!</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=197:european-games-award-voting-2012-online"/>
+		<published>2012-06-21T09:01:13Z</published>
+		<updated>2012-06-21T09:01:13Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=197:european-games-award-voting-2012-online</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=8&quot;&gt;&lt;img alt=&quot;header_small_mail&quot; src=&quot;http://www.european-games-award.com/images/stories/header_small_mail.jpg&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3,2,1&lt;/strong&gt;………..the &lt;strong&gt;European Games Award voting 2012 &lt;/strong&gt;is online right now!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Europe´s biggest public choice award for games with more than &lt;strong&gt;75,000 active voters in the last year&lt;/strong&gt; is back again.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Which nominees will win? You got it in your hands! Just go to &lt;a href=&quot;http://www.european-games-award.com/index.php/voting&quot;&gt;http://www.european-games-award.com/index.php/voting&lt;/a&gt; log in and choose your favorite game in &lt;strong&gt;more than 20 categories&lt;/strong&gt;. Games like &lt;strong&gt;Minecraft&lt;/strong&gt;, &lt;strong&gt;Angry Birds Space&lt;/strong&gt;, &lt;strong&gt;Batman Arkham City&lt;/strong&gt; or &lt;strong&gt;The Witcher 2: Assassins of Kings&lt;/strong&gt; wait for your vote. This year is also the launch for two brand new categories: “&lt;strong&gt;Most Wanted Online Game&lt;/strong&gt;” and “&lt;strong&gt;Best European Character Design&lt;/strong&gt;”.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Check out &lt;a href=&quot;http://www.european-games-award.com/index.php/voting&quot;&gt;http://www.european-games-award.com/index.php/voting&lt;/a&gt; and support your favorite game and maybe you will &lt;strong&gt;win two of 20 tickets&lt;/strong&gt; for the show.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=8&quot;&gt;&lt;img alt=&quot;header_small_mail&quot; src=&quot;http://www.european-games-award.com/images/stories/header_small_mail.jpg&quot; height=&quot;135&quot; width=&quot;580&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3,2,1&lt;/strong&gt;………..the &lt;strong&gt;European Games Award voting 2012 &lt;/strong&gt;is online right now!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Europe´s biggest public choice award for games with more than &lt;strong&gt;75,000 active voters in the last year&lt;/strong&gt; is back again.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Which nominees will win? You got it in your hands! Just go to &lt;a href=&quot;http://www.european-games-award.com/index.php/voting&quot;&gt;http://www.european-games-award.com/index.php/voting&lt;/a&gt; log in and choose your favorite game in &lt;strong&gt;more than 20 categories&lt;/strong&gt;. Games like &lt;strong&gt;Minecraft&lt;/strong&gt;, &lt;strong&gt;Angry Birds Space&lt;/strong&gt;, &lt;strong&gt;Batman Arkham City&lt;/strong&gt; or &lt;strong&gt;The Witcher 2: Assassins of Kings&lt;/strong&gt; wait for your vote. This year is also the launch for two brand new categories: “&lt;strong&gt;Most Wanted Online Game&lt;/strong&gt;” and “&lt;strong&gt;Best European Character Design&lt;/strong&gt;”.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Check out &lt;a href=&quot;http://www.european-games-award.com/index.php/voting&quot;&gt;http://www.european-games-award.com/index.php/voting&lt;/a&gt; and support your favorite game and maybe you will &lt;strong&gt;win two of 20 tickets&lt;/strong&gt; for the show.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>The winners 2011 are:</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=195:winners-accordion&amp;Itemid=22"/>
+		<published>2011-08-24T09:23:58Z</published>
+		<updated>2011-08-24T09:23:58Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=195:winners-accordion&amp;Itemid=22</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;div id=&quot;accordion&quot;&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Action Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_action_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Studio&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_studio.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Add-On/DLC&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_add_on_dlc.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Strategy Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_strategy_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Special Edition&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_special_edition.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Adventure&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_adventure.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Most Wanted Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/most_wanted_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Browser Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_browser_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Publisher&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_publisher.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Game Design&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_game_design.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Gaming Portal&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_games_portal.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Sound&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_sound.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Gameworld&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_gameworld.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Advertisement&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_advertisement.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Art Direction&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_art_direction.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Online Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_online_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Community Support&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_community_support.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Handheld Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_handheld_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Racing Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_racing_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Social Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_social_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Indie Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_indie_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Personality Award&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/personality_award.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Country&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_country.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div id=&quot;accordion&quot;&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Action Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_action_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Studio&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_studio.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Add-On/DLC&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_add_on_dlc.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Strategy Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_strategy_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Special Edition&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_special_edition.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Adventure&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_adventure.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Most Wanted Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/most_wanted_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Browser Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_browser_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Publisher&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_publisher.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Game Design&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_game_design.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Gaming Portal&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_games_portal.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Sound&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_sound.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Gameworld&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_gameworld.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Advertisement&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_advertisement.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Art Direction&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_art_direction.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Online Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_online_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Community Support&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_community_support.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Handheld Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_handheld_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Racing Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_racing_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Social Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_social_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Indie Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_indie_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Personality Award&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/personality_award.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Game&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_game.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h3 class=&quot;toggler atStart&quot;&gt;Best European Country&lt;/h3&gt;
+&lt;div class=&quot;element atStart&quot;&gt;&lt;img src=&quot;http://www.european-games-award.com/images/stories/gewinner/best_european_country.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>The award show is getting closer</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=193:the-award-show-is-getting-closer"/>
+		<published>2011-08-05T11:20:03Z</published>
+		<updated>2011-08-05T11:20:03Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=193:the-award-show-is-getting-closer</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img alt=&quot;news&quot; src=&quot;http://www.european-games-award.com/images/stories/news.jpg&quot; height=&quot;300&quot; width=&quot;631&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The award show of the &lt;strong&gt;European Games Award 2011&lt;/strong&gt; is getting closer, as it already starts on August 13th 2011. On that date winners in over 20 categories will be awarded on the event-ship „Pure Liner 1“. Prior to this, the winners have been elected in Europe’s greatest public voting with over half a million votes cast.&lt;br /&gt;&lt;br /&gt;But not only the active participation of enthusiastic gamers across Europe gives the award show that special European touch. Award presentations will be made in each price category by well-known persons of the gaming-industry.&lt;br /&gt;&lt;br /&gt;From Sweden we have DICE’s Kenny Magnusson and Magnus Sjöberg coming to Cologne, presenting the price for the „Best European Action Game”. Also coming from the north, but from the stronghold of the gaming industry, Great Britain we will have Ian Pickles and Kelvin Aston. Both are senior producers at Team17, well known for the Alien Breed- and the Worms-series. Pickles and Aston present the price for the “Best European Studio”&lt;br /&gt;&lt;br /&gt;Mario Bauman, general manager GAS from the mainsponsor of the European Games Award 2011, wargaming.net, comes from the german capital Berlin and welcomes the winner of the categorie„Most Wanted Game“ on the stage.&lt;br /&gt;&lt;br /&gt;Adam Badowski and John Mamais from the polish developer CD Projekt RED – as managing director and head of production both important for the success of The Witcher-series – hand over the trophy for the „Best European Browser Game“ to the lucky winner.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Chris Schmitz, from the Düsseldorfer studio BlueByte and currently working on Anno 2070, will present the winner in the category „Best European Publisher“.&lt;br /&gt;&lt;br /&gt;Sven Liebich from Hamburgs company Bigpoint and as head of art responsible for the graphical design of the games, hands over the award for the “Best European Art Direction”. Jasmin Kassner-Orthbandt is the CEO of pixeltamer.net and well known for her social gaming project ChawaChawa, wherewith gamers can playfully&lt;br /&gt;support social relief projects. She will award the winner of the category „Best European Online Game“.&lt;br /&gt;&lt;br /&gt;Best-known should also be the following names: Avni, Cevat and Faruk Yerli. They are the leading heads of the development studio Crytek and will also join the award show. Avni Yerli will furthermore held the honorific speech for the „Best European Indie Game“.&lt;br /&gt;&lt;br /&gt;Last, but not least a true veteran will hand over the much sought-after &lt;strong&gt;European Games Award 2011&lt;/strong&gt; for the “Best European Game”. The person we are talking about is Charles Cecil, co-founder of Revolution Games and creator of games like Beneath A Steel Sky and the Broken Sword-series.&lt;br /&gt;&lt;br /&gt;Some of the mentioned persons are not only for their laudations on board of the „Pure Liner 1“, but are also on the list of the potential award winners in various categories of the &lt;strong&gt;European Games Award 2011&lt;/strong&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img alt=&quot;news&quot; src=&quot;http://www.european-games-award.com/images/stories/news.jpg&quot; height=&quot;300&quot; width=&quot;631&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The award show of the &lt;strong&gt;European Games Award 2011&lt;/strong&gt; is getting closer, as it already starts on August 13th 2011. On that date winners in over 20 categories will be awarded on the event-ship „Pure Liner 1“. Prior to this, the winners have been elected in Europe’s greatest public voting with over half a million votes cast.&lt;br /&gt;&lt;br /&gt;But not only the active participation of enthusiastic gamers across Europe gives the award show that special European touch. Award presentations will be made in each price category by well-known persons of the gaming-industry.&lt;br /&gt;&lt;br /&gt;From Sweden we have DICE’s Kenny Magnusson and Magnus Sjöberg coming to Cologne, presenting the price for the „Best European Action Game”. Also coming from the north, but from the stronghold of the gaming industry, Great Britain we will have Ian Pickles and Kelvin Aston. Both are senior producers at Team17, well known for the Alien Breed- and the Worms-series. Pickles and Aston present the price for the “Best European Studio”&lt;br /&gt;&lt;br /&gt;Mario Bauman, general manager GAS from the mainsponsor of the European Games Award 2011, wargaming.net, comes from the german capital Berlin and welcomes the winner of the categorie„Most Wanted Game“ on the stage.&lt;br /&gt;&lt;br /&gt;Adam Badowski and John Mamais from the polish developer CD Projekt RED – as managing director and head of production both important for the success of The Witcher-series – hand over the trophy for the „Best European Browser Game“ to the lucky winner.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Chris Schmitz, from the Düsseldorfer studio BlueByte and currently working on Anno 2070, will present the winner in the category „Best European Publisher“.&lt;br /&gt;&lt;br /&gt;Sven Liebich from Hamburgs company Bigpoint and as head of art responsible for the graphical design of the games, hands over the award for the “Best European Art Direction”. Jasmin Kassner-Orthbandt is the CEO of pixeltamer.net and well known for her social gaming project ChawaChawa, wherewith gamers can playfully&lt;br /&gt;support social relief projects. She will award the winner of the category „Best European Online Game“.&lt;br /&gt;&lt;br /&gt;Best-known should also be the following names: Avni, Cevat and Faruk Yerli. They are the leading heads of the development studio Crytek and will also join the award show. Avni Yerli will furthermore held the honorific speech for the „Best European Indie Game“.&lt;br /&gt;&lt;br /&gt;Last, but not least a true veteran will hand over the much sought-after &lt;strong&gt;European Games Award 2011&lt;/strong&gt; for the “Best European Game”. The person we are talking about is Charles Cecil, co-founder of Revolution Games and creator of games like Beneath A Steel Sky and the Broken Sword-series.&lt;br /&gt;&lt;br /&gt;Some of the mentioned persons are not only for their laudations on board of the „Pure Liner 1“, but are also on the list of the potential award winners in various categories of the &lt;strong&gt;European Games Award 2011&lt;/strong&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>EGA 2011: Vote now and win a Wii U!</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=191:ega-2011-voting-started"/>
+		<published>2011-07-01T08:51:00Z</published>
+		<updated>2011-07-01T08:51:00Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=191:ega-2011-voting-started</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=8&quot;&gt;&lt;img style=&quot;margin-bottom: 5px; border-width: 0px; border-style: none;&quot; alt=&quot;win_wiiu&quot; src=&quot;http://www.european-games-award.com/images/stories/win_wiiu.gif&quot; height=&quot;241&quot; width=&quot;631&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The EGA 2011 has startet and everyone is invited to vote for his favorite game in over 20 categories. In the past year over 400 games were released in europe and we selected more than 100 of the best games for you to be europes finest. For the first time you will be able to not just vote for retail and online games but for Add-Ons and DLCs also! Take your vote and be part of the greatest public vote in gaming history: European Game Awards 2011.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Every registered voter, automatically takes part in our lottery. The prize will beNintendo's next generation Console the Wii U!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=15&amp;amp;Itemid=10&quot;&gt;Scout the categories!&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=8&quot;&gt;Vote for your favorites!&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=8&quot;&gt;&lt;img style=&quot;margin-bottom: 5px; border-width: 0px; border-style: none;&quot; alt=&quot;win_wiiu&quot; src=&quot;http://www.european-games-award.com/images/stories/win_wiiu.gif&quot; height=&quot;241&quot; width=&quot;631&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The EGA 2011 has startet and everyone is invited to vote for his favorite game in over 20 categories. In the past year over 400 games were released in europe and we selected more than 100 of the best games for you to be europes finest. For the first time you will be able to not just vote for retail and online games but for Add-Ons and DLCs also! Take your vote and be part of the greatest public vote in gaming history: European Game Awards 2011.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Every registered voter, automatically takes part in our lottery. The prize will beNintendo's next generation Console the Wii U!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=15&amp;amp;Itemid=10&quot;&gt;Scout the categories!&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.european-games-award.com/index.php?option=com_wrapper&amp;amp;view=wrapper&amp;amp;Itemid=8&quot;&gt;Vote for your favorites!&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>What is the European Games Award?</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=110:what-is-the-european-games-award"/>
+		<published>2011-06-09T14:09:52Z</published>
+		<updated>2011-06-09T14:09:52Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=110:what-is-the-european-games-award</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;The European Games Award is the first award exclusively for European  video and computer game developers, which lets professionals and gamers  from all over Europe participate in the voting for the best games.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The award ceremony – after having been held in Cologne (Germany) for  two years – will then take place in a different European capital each  year. The première of the European Games Award on August 14th 2010 took place in an extraordinary location: on the Pure Liner, an event ship, which left Niehler Harbor in Cologne and sailed along the Rhine  during the award ceremony.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The European Games Award demonstrates how many important  games are developed in Europe, and honors the work of  the developers, publishers and all those involved in the production and  marketing of games.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The European Games Award is the first award exclusively for European  video and computer game developers, which lets professionals and gamers  from all over Europe participate in the voting for the best games.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The award ceremony – after having been held in Cologne (Germany) for  two years – will then take place in a different European capital each  year. The première of the European Games Award on August 14th 2010 took place in an extraordinary location: on the Pure Liner, an event ship, which left Niehler Harbor in Cologne and sailed along the Rhine  during the award ceremony.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The European Games Award demonstrates how many important  games are developed in Europe, and honors the work of  the developers, publishers and all those involved in the production and  marketing of games.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Impressions from the show 2010</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=107:impressions-from-the-show"/>
+		<published>2010-08-24T13:58:16Z</published>
+		<updated>2010-08-24T13:58:16Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=107:impressions-from-the-show</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;Here are some impressions of last years European Games Award.&lt;/p&gt;
+&lt;p&gt;We thank all guests for the great show in Cologne!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/15625744?byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; height=&quot;338&quot; width=&quot;600&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vimeo.com/15625744&quot;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Here are some impressions of last years European Games Award.&lt;/p&gt;
+&lt;p&gt;We thank all guests for the great show in Cologne!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/15625744?byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; height=&quot;338&quot; width=&quot;600&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vimeo.com/15625744&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>The winners 2010 were...</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=106:the-winners-are&amp;Itemid=27"/>
+		<published>2010-08-15T20:35:38Z</published>
+		<updated>2010-08-15T20:35:38Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=106:the-winners-are&amp;Itemid=27</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;These are the winners of the first European Games Award in the 23 categories:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table width=&quot;100%&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;50%&quot;&gt;&lt;strong&gt;Best European Game&lt;/strong&gt;&lt;br /&gt; Battlefield : Bad Company 2 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Special Achievement&lt;/strong&gt;&lt;br /&gt; One Big Game &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Personality Award&lt;/strong&gt;&lt;br /&gt; Frank Sliwka &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Most Wanted Game&lt;/strong&gt;&lt;br /&gt; Crysis 2 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Gamedesign&lt;/strong&gt;&lt;br /&gt; Battlefield : Bad Company 2 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Gameworld&lt;/strong&gt;&lt;br /&gt; S.T.A.L.K.E.R. Call of Pripyat &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Art Direction&lt;/strong&gt;&lt;br /&gt; Machinarium &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Soundtrack&lt;/strong&gt;&lt;br /&gt; Silent Hill: Shattered Memories &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Action Game&lt;/strong&gt;&lt;br /&gt; Battlefield : Bad Company 2 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Racing Game&lt;/strong&gt;&lt;br /&gt; Need For Speed: Shift &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Adventure&lt;/strong&gt;&lt;br /&gt; Heavy Rain&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;50%&quot;&gt;&lt;strong&gt;Best European Strategy Game&lt;/strong&gt;&lt;br /&gt; Anno 1404 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Handheld Game&lt;/strong&gt;&lt;br /&gt; LittleBigPlanet PSP &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Gaming Magazine&lt;/strong&gt;&lt;br /&gt; ComputerAndVideoGames &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Gaming Portal&lt;/strong&gt;&lt;br /&gt; Bigpoint &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Studio&lt;/strong&gt;&lt;br /&gt; Crytek &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Publisher&lt;/strong&gt;&lt;br /&gt; Ubisoft &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Online Game&lt;/strong&gt;&lt;br /&gt; EVE Online: Tyrannis &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Social Game&lt;/strong&gt;&lt;br /&gt; Bubble Island &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Browser Game&lt;/strong&gt;&lt;br /&gt; Farmerama &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European OVI Game&lt;/strong&gt;&lt;br /&gt; Sonic Unleashed &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European App Store Game&lt;/strong&gt;&lt;br /&gt; Angry Birds &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Windows Phone Game&lt;/strong&gt;&lt;br /&gt; Texas HoldEm Poker&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;p&gt;These are the winners of the first European Games Award in the 23 categories:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table width=&quot;100%&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;50%&quot;&gt;&lt;strong&gt;Best European Game&lt;/strong&gt;&lt;br /&gt; Battlefield : Bad Company 2 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Special Achievement&lt;/strong&gt;&lt;br /&gt; One Big Game &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Personality Award&lt;/strong&gt;&lt;br /&gt; Frank Sliwka &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Most Wanted Game&lt;/strong&gt;&lt;br /&gt; Crysis 2 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Gamedesign&lt;/strong&gt;&lt;br /&gt; Battlefield : Bad Company 2 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Gameworld&lt;/strong&gt;&lt;br /&gt; S.T.A.L.K.E.R. Call of Pripyat &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Art Direction&lt;/strong&gt;&lt;br /&gt; Machinarium &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Soundtrack&lt;/strong&gt;&lt;br /&gt; Silent Hill: Shattered Memories &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Action Game&lt;/strong&gt;&lt;br /&gt; Battlefield : Bad Company 2 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Racing Game&lt;/strong&gt;&lt;br /&gt; Need For Speed: Shift &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Adventure&lt;/strong&gt;&lt;br /&gt; Heavy Rain&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;50%&quot;&gt;&lt;strong&gt;Best European Strategy Game&lt;/strong&gt;&lt;br /&gt; Anno 1404 &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Handheld Game&lt;/strong&gt;&lt;br /&gt; LittleBigPlanet PSP &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Gaming Magazine&lt;/strong&gt;&lt;br /&gt; ComputerAndVideoGames &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Gaming Portal&lt;/strong&gt;&lt;br /&gt; Bigpoint &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Studio&lt;/strong&gt;&lt;br /&gt; Crytek &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Publisher&lt;/strong&gt;&lt;br /&gt; Ubisoft &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Online Game&lt;/strong&gt;&lt;br /&gt; EVE Online: Tyrannis &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Social Game&lt;/strong&gt;&lt;br /&gt; Bubble Island &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Browser Game&lt;/strong&gt;&lt;br /&gt; Farmerama &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European OVI Game&lt;/strong&gt;&lt;br /&gt; Sonic Unleashed &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European App Store Game&lt;/strong&gt;&lt;br /&gt; Angry Birds &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;Best European Windows Phone Game&lt;/strong&gt;&lt;br /&gt; Texas HoldEm Poker&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Public Voting</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=9:public-voting"/>
+		<published>2010-07-05T11:28:04Z</published>
+		<updated>2010-07-05T11:28:04Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=9:public-voting</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;The European Games Award made an European-wide public voting possible for the first time. More than 12,000 Users registered at the EGA website and not only voted for the best action, sports, adventure game etc., they also also took part in the EGA-lottery. The first prize &lt;strong&gt;was an PS3, exclusively branded in the European Games Award Design&lt;/strong&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The European Games Award made an European-wide public voting possible for the first time. More than 12,000 Users registered at the EGA website and not only voted for the best action, sports, adventure game etc., they also also took part in the EGA-lottery. The first prize &lt;strong&gt;was an PS3, exclusively branded in the European Games Award Design&lt;/strong&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Gamesload European Newcomer Award</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=4:gamesload-european-newcomer-award"/>
+		<published>2010-07-02T16:38:47Z</published>
+		<updated>2010-07-02T16:38:47Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=4:gamesload-european-newcomer-award</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;With the Gamesload European Newcomer Award your team has the chance to win 2.500 € as prize money as well as a European-wide distribution deal with Gamesload if you achieve the first place.&lt;br /&gt;Here are the guidelines for a successful submission to the award:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your game has been developed by university students, was a student’s project or was created and developed by a team of independent developers.&lt;/li&gt;
+&lt;li&gt;Your team members are older than 16 years and have not yet worked in a professional game developer studio or as freelancer in the games industry.&lt;/li&gt;
+&lt;li&gt;Your project is not a commissioned work for a professional developer and has not yet been released in any distributional channels.&lt;/li&gt;
+&lt;li&gt;Your project is not encumbered with third persons’ rights, you own all rights to your project.&lt;/li&gt;
+&lt;li&gt;Your project must at least exist in a playable version (beta version, prototype) as a whole or in parts (levels), which gives an idea of the game’s concept. You may also include trailers, videos or screenshots to complete the game’s impression&lt;/li&gt;
+&lt;li&gt;The entry deadline for a successful submission is July 26th 2010.&lt;/li&gt;
+&lt;li&gt;Awardees can be students, young professional developers, branch newcomers, natural persons or legal entities, it they are authorized to accept the award for its proper use.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;We reserve the right to cancel your submission to the award without further explanation even if all guidelines have been kept.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Your project must have been developed for the PC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;If you want to submit a game or have any questions concerning the &lt;strong&gt;Gamesload European Newcomer Award&lt;/strong&gt; you can contact us via email to Ermisch@aruba-events.de or telephone +49 208 – 69 82 608&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;What could be your reward? You can win a European-wide distribution deal for your project by Gamesload and 2.500€ prize money in cash!&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;With the Gamesload European Newcomer Award your team has the chance to win 2.500 € as prize money as well as a European-wide distribution deal with Gamesload if you achieve the first place.&lt;br /&gt;Here are the guidelines for a successful submission to the award:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your game has been developed by university students, was a student’s project or was created and developed by a team of independent developers.&lt;/li&gt;
+&lt;li&gt;Your team members are older than 16 years and have not yet worked in a professional game developer studio or as freelancer in the games industry.&lt;/li&gt;
+&lt;li&gt;Your project is not a commissioned work for a professional developer and has not yet been released in any distributional channels.&lt;/li&gt;
+&lt;li&gt;Your project is not encumbered with third persons’ rights, you own all rights to your project.&lt;/li&gt;
+&lt;li&gt;Your project must at least exist in a playable version (beta version, prototype) as a whole or in parts (levels), which gives an idea of the game’s concept. You may also include trailers, videos or screenshots to complete the game’s impression&lt;/li&gt;
+&lt;li&gt;The entry deadline for a successful submission is July 26th 2010.&lt;/li&gt;
+&lt;li&gt;Awardees can be students, young professional developers, branch newcomers, natural persons or legal entities, it they are authorized to accept the award for its proper use.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;We reserve the right to cancel your submission to the award without further explanation even if all guidelines have been kept.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Your project must have been developed for the PC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;If you want to submit a game or have any questions concerning the &lt;strong&gt;Gamesload European Newcomer Award&lt;/strong&gt; you can contact us via email to Ermisch@aruba-events.de or telephone +49 208 – 69 82 608&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;What could be your reward? You can win a European-wide distribution deal for your project by Gamesload and 2.500€ prize money in cash!&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>About the European Games Award</title>
+		<link rel="alternate" type="text/html" href="http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=6:about-the-european-games-award"/>
+		<published>2010-07-02T16:39:58Z</published>
+		<updated>2010-07-02T16:39:58Z</updated>
+		<id>http://www.european-games-award.com/index.php?option=com_content&amp;view=article&amp;id=6:about-the-european-games-award</id>
+		<author>
+			<name>Administrator</name>
+		<email>lange@aruba-events.de</email>
+		</author>
+		<summary type="html">&lt;p&gt;The European Games Award is the first award exclusively for European video and computer game developers, which lets professionals and gamers from all over Europe participate in the voting for the best games.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The award ceremony – after having been held in Cologne (Germany) for two years – will then take place in a different European capital each year. The  European Games Award 2011 will be in an extraordinary location: on the Pure Liner, an event ship, which will leave Niehler Harbor in Cologne and will sail along the Rhine during the award ceremony.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The European Games Award wants to demonstrate how many important games have been developed in Europe, and it wants to honor the work of the developers, publishers and all those involved in the production and marketing of games.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The European Games Award is the first award exclusively for European video and computer game developers, which lets professionals and gamers from all over Europe participate in the voting for the best games.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The award ceremony – after having been held in Cologne (Germany) for two years – will then take place in a different European capital each year. The  European Games Award 2011 will be in an extraordinary location: on the Pure Liner, an event ship, which will leave Niehler Harbor in Cologne and will sail along the Rhine during the award ceremony.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The European Games Award wants to demonstrate how many important games have been developed in Europe, and it wants to honor the work of the developers, publishers and all those involved in the production and marketing of games.&lt;/p&gt;</content>
+	</entry>
+</feed>
