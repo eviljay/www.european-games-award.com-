@@ -1,35 +1,31 @@
-# parking, see cvs for comments
-User-agent: Googlebot
-Disallow:  /info/
-Disallow:  /search/
-
-User-agent: Mediapartners-Google
-Disallow:  /info/
-Disallow:  /search/
-
-User-agent: Yahoo! Slurp
-Allow: /$
-Disallow: /
-
-User-agent: bingbot
-Allow: /$
-Disallow: /
-
-User-agent: Yandex
-Allow: /$
-Disallow: /
-
-User-agent: Baiduspider
-Disallow: /
-
-User-agent: Sogou
-Disallow: /
-
-User-agent: ia_archiver
-Disallow: 
-
-User-agent: IPS-Agent
-Disallow: /parking.php4
+# If the Joomla site is installed within a folder such as at
+# e.g. www.example.com/joomla/ the robots.txt file MUST be
+# moved to the site root at e.g. www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to the disallowed
+# path, e.g. the Disallow rule for the /administrator/ folder
+# MUST be changed to read Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+#
+# For syntax checking, see:
+# http://tool.motoricerca.info/robots-checker.phtml
 
 User-agent: *
-Disallow: /
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /alt/
+
